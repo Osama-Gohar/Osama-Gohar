@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm Osama 👋
+I am a Software Automation Testing Engineer focused on software quality assurance. I am passionate to create a scalable, readable, and efficient scripts to solve real problems through collaboration and strategic thinking. Currently I'm working at BioBusiness as senior Software QC/QA Engineer. 
+
 
 <!--
 **Osama-Gohar/Osama-Gohar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
